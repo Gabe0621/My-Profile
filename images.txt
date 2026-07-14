@@ -1,0 +1,26 @@
+<!-- Profile Picture -->
+  <img 
+    src="c:\Users\Gabe\OneDrive\Desktop\profile.jpg" 
+    alt="Profile Picture"
+    style="
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 5px solid #1e3a8a;
+      margin-top: 20px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    "
+  />
+
+  <!-- Portfolio Description -->
+  <p style="
+      max-width: 600px;
+      margin: 30px auto;
+      font-size: 18px;
+      line-height: 1.6;
+      color: #374151;
+      background-color: rgba(255,255,255,0.7);
+      padding: 20px;
+      border-radius: 10px;
+    ">
